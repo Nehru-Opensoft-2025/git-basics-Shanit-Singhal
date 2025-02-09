@@ -1,1 +1,2 @@
-text in stash filetext in stash file
+text in stash file text in stash file
+my name is this
