@@ -1,1 +1,2 @@
 Change from main branch
+this is conflict textChange from conflict-branch
